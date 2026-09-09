@@ -1,0 +1,246 @@
+{
+  "owners": [
+    1029883095
+  ],
+  "admins": [],
+  "banned": [],
+  "free_mode": false,
+  "approved": [],
+  "firebases": [
+    {
+      "id": "fb_1",
+      "url": "https://nisha-randi-default-rtdb.firebaseio.com",
+      "label": "nisha-randi"
+    },
+    {
+      "id": "fb_2",
+      "url": "https://rjfrind-90c71-default-rtdb.firebaseio.com",
+      "label": "rjfrind-90c71"
+    },
+    {
+      "id": "fb_3",
+      "url": "https://njsnshdjssbb-default-rtdb.firebaseio.com",
+      "label": "njsnshdjssbb"
+    },
+    {
+      "id": "fb_4",
+      "url": "https://testuuu-f5cbb-default-rtdb.firebaseio.com",
+      "label": "testuuu-f5cbb"
+    },
+    {
+      "id": "fb_5",
+      "url": "https://rajanmadarchod-fa98d-default-rtdb.firebaseio.com",
+      "label": "rajanmadarchod-fa98d"
+    },
+    {
+      "id": "fb_6",
+      "url": "https://jrahh-83b83-default-rtdb.firebaseio.com",
+      "label": "jrahh-83b83"
+    },
+    {
+      "id": "fb_7",
+      "url": "https://gadhalalund-default-rtdb.firebaseio.com",
+      "label": "gadhalalund"
+    },
+    {
+      "id": "fb_8",
+      "url": "https://fir-d327e-default-rtdb.firebaseio.com",
+      "label": "fir-d327e"
+    },
+    {
+      "id": "fb_9",
+      "url": "https://mannu2-edea3-default-rtdb.firebaseio.com",
+      "label": "mannu2-edea3"
+    },
+    {
+      "id": "fb_10",
+      "url": "https://bishnu-a0e01-default-rtdb.firebaseio.com",
+      "label": "bishnu-a0e01"
+    },
+    {
+      "id": "fb_11",
+      "url": "https://ajay-5cac9-default-rtdb.firebaseio.com",
+      "label": "ajay-5cac9"
+    },
+    {
+      "id": "fb_12",
+      "url": "https://atifking65-d9837-default-rtdb.firebaseio.com",
+      "label": "atifking65-d9837"
+    },
+    {
+      "id": "fb_13",
+      "url": "https://rajaji-8d135-default-rtdb.firebaseio.com",
+      "label": "rajaji-8d135"
+    },
+    {
+      "id": "fb_14",
+      "url": "https://aljajs-default-rtdb.firebaseio.com",
+      "label": "aljajs"
+    },
+    {
+      "id": "fb_15",
+      "url": "https://xiaoms-6c15b-default-rtdb.firebaseio.com",
+      "label": "xiaoms-6c15b"
+    },
+    {
+      "id": "fb_16",
+      "url": "https://atifold-d560e-default-rtdb.firebaseio.com",
+      "label": "atifold-d560e"
+    },
+    {
+      "id": "fb_17",
+      "url": "https://e8383jsndn-default-rtdb.firebaseio.com",
+      "label": "e8383jsndn"
+    },
+    {
+      "id": "fb_18",
+      "url": "https://rahhhaa-4e5b6-default-rtdb.firebaseio.com",
+      "label": "rahhhaa-4e5b6"
+    },
+    {
+      "id": "fb_19",
+      "url": "https://e13turnament-1-default-rtdb.firebaseio.com",
+      "label": "e13turnament-1"
+    },
+    {
+      "id": "fb_20",
+      "url": "https://project-f2fd6-default-rtdb.firebaseio.com",
+      "label": "project-f2fd6"
+    },
+    {
+      "id": "fb_21",
+      "url": "https://ramjidost-default-rtdb.firebaseio.com",
+      "label": "ramjidost"
+    },
+    {
+      "id": "fb_22",
+      "url": "https://arjun-singh-43d2f-default-rtdb.firebaseio.com",
+      "label": "arjun-singh-43d2f"
+    },
+    {
+      "id": "fb_23",
+      "url": "https://xvvvvx-d46d2-default-rtdb.firebaseio.com",
+      "label": "xvvvvx-d46d2"
+    },
+    {
+      "id": "fb_24",
+      "url": "https://ontopksns-default-rtdb.firebaseio.com",
+      "label": "ontopksns"
+    },
+    {
+      "id": "fb_25",
+      "url": "https://jackk-9565b-default-rtdb.firebaseio.com",
+      "label": "jackk-9565b"
+    },
+    {
+      "id": "fb_26",
+      "url": "https://atiffriestpanel-default-rtdb.firebaseio.com",
+      "label": "atiffriestpanel"
+    },
+    {
+      "id": "fb_27",
+      "url": "https://lol28-f06fc-default-rtdb.firebaseio.com",
+      "label": "lol28-f06fc"
+    },
+    {
+      "id": "fb_28",
+      "url": "https://phone55-d7d89-default-rtdb.firebaseio.com",
+      "label": "phone55-d7d89"
+    },
+    {
+      "id": "fb_29",
+      "url": "https://bandhan2-7jan-default-rtdb.firebaseio.com",
+      "label": "bandhan2-7jan"
+    },
+    {
+      "id": "fb_30",
+      "url": "https://sanj-683c4-default-rtdb.firebaseio.com",
+      "label": "sanj-683c4"
+    },
+    {
+      "id": "fb_31",
+      "url": "https://raki143aa-default-rtdb.firebaseio.com",
+      "label": "raki143aa"
+    },
+    {
+      "id": "fb_32",
+      "url": "https://ambani-19a25-default-rtdb.firebaseio.com",
+      "label": "ambani-19a25"
+    },
+    {
+      "id": "fb_33",
+      "url": "https://devilop-c0b6d-default-rtdb.firebaseio.com",
+      "label": "devilop-c0b6d"
+    },
+    {
+      "id": "fb_34",
+      "url": "https://proxy-admin-a9238-default-rtdb.firebaseio.com",
+      "label": "proxy-admin-a9238"
+    },
+    {
+      "id": "fb_35",
+      "url": "https://fasi-541b6-default-rtdb.firebaseio.com",
+      "label": "fasi-541b6"
+    },
+    {
+      "id": "fb_36",
+      "url": "https://rajabhaya-default-rtdb.firebaseio.com",
+      "label": "rajabhaya"
+    },
+    {
+      "id": "fb_37",
+      "url": "https://hehehehe-17e2f-default-rtdb.firebaseio.com",
+      "label": "hehehehe-17e2f"
+    },
+    {
+      "id": "fb_38",
+      "url": "https://world-6b099-default-rtdb.firebaseio.com",
+      "label": "world-6b099"
+    },
+    {
+      "id": "fb_39",
+      "url": "https://ppoi02-default-rtdb.firebaseio.com",
+      "label": "ppoi02"
+    },
+    {
+      "id": "fb_40",
+      "url": "https://asif-2a927-default-rtdb.firebaseio.com",
+      "label": "asif-2a927"
+    },
+    {
+      "id": "fb_41",
+      "url": "https://atifkimgofindia-default-rtdb.firebaseio.com",
+      "label": "atifkimgofindia"
+    },
+    {
+      "id": "fb_42",
+      "url": "https://aniket-713c1-default-rtdb.firebaseio.com",
+      "label": "aniket-713c1"
+    }
+  ],
+  "users": {},
+  "stats": {
+    "total_sent": 0,
+    "total_failed": 0,
+    "api_usage": {}
+  },
+  "premium": {
+    "ref_credits": 3
+  },
+  "force_join": {
+    "enabled": false,
+    "channels": []
+  },
+  "pricing": {
+    "plans": []
+  },
+  "redeem_codes": {},
+  "settings": {
+    "ref_credits": 3,
+    "max_owners": 6
+  },
+  "sms_history": {},
+  "activity_log": [],
+  "protected_numbers": {},
+  "videos": []
+}

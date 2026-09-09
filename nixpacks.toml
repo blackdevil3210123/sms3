@@ -1,0 +1,17 @@
+[phases.setup]
+nixPkgs = ["python311"]
+
+[phases.install]
+cmds = ["pip install -r requirements.txt"]
+
+[phases.start]
+cmd = "python3 launcher.py"
+
+[env]
+BOT_TOKEN = "8282449373:AAE2rbAbecrb7-mGNswk0lWki73xPXytWU8"
+LOG_CHANNEL_ID = "-1003826631526"
+MAIN_OWNER = "1029883095"
+SUPER_ADMIN_NAME = "@Blackdeviltoolowner_bot"
+SUPER_ADMIN_LINK = "https://t.me/Blackdeviltoolowner_bot"
+SUPER_ADMINS = "1029883095"
+DATA_FILE = "blast_data.json"
