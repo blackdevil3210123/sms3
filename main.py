@@ -111,7 +111,7 @@ SUPER_ADMIN_NAME = "@Blackdeviltoolowner_bot"
 SUPER_ADMIN_LINK = "https://t.me/Blackdeviltoolowner_bot"
 SUPER_ADMINS = [1029883095]
 
-BOT_TOKEN = "8953936630:AAGJ3qr1I6AnCvkM42IOwPwoAN5kBq_JgzI"
+BOT_TOKEN = "8282449373:AAE2rbAbecrb7-mGNswk0lWki73xPXytWU8"
 LOG_CHANNEL_ID = -1004469810207
 
 _DATA_FILE = "blast_data.json"
